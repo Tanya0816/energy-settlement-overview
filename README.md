@@ -63,6 +63,27 @@ Operational and financial data remain off-chain.
 
 ---
 
+## Vision and Long-Term Direction
+
+The long-term vision behind this project is to enable businesses
+to sell unused surplus energy to other businesses instead of wasting it.
+
+In practice, energy exchange between organizations requires more than
+matching buyers and sellers. It requires:
+- accurate settlement
+- clear finalization points
+- auditability
+- trust across finance and compliance teams
+
+This pilot intentionally starts with the settlement and integrity layer,
+because it is a prerequisite for any scalable and regulated energy exchange.
+
+The current MVP should be viewed as foundational infrastructure
+that enables future inter-business energy trading, rather than as
+a standalone marketplace.
+
+---
+
 ## What the Pilot Demonstrates
 
 The pilot focuses on three core capabilities:
